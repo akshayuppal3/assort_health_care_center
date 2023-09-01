@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Other cache and temporary files
+*.swp
+*.swo
+*.swn
+*.swm
+.DS_Store
+*.db
+*.sqlite
+*.log
